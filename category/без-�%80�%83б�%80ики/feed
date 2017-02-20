@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Без рубрики &#8212; Lidiana</title>
+	<atom:link href="http://www.lidian.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.lidian.ru</link>
+	<description>Невозможно – это не факт. Невозможно – это не приговор. Невозможно – это не навсегда.</description>
+	<lastBuildDate>Sat, 01 Nov 2014 16:47:29 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>***</title>
+		<link>http://www.lidian.ru/217.html</link>
+		<comments>http://www.lidian.ru/217.html#respond</comments>
+		<pubDate>Sat, 01 Nov 2014 16:47:29 +0000</pubDate>
+		<dc:creator><![CDATA[lida]]></dc:creator>
+				<category><![CDATA[Без рубрики]]></category>
+
+		<guid isPermaLink="false">http://www.lidian.ru/?p=217</guid>
+		<description><![CDATA[Не хочу я с тобой прощаться, Расстояние нас не разделит. Знаю, будешь ты мне улыбаться, Уходя на далекий тот берег. Выбирая себе дорогу, Ты меня иногда вспоминай. Обойдут все невзгоды, тревоги, Просто имя мое повторяй. Я с тобою душой и телом. Но не знаю кому молиться. Просто будь моим счастьем смелым, Улетающим в небо птицей.]]></description>
+				<content:encoded><![CDATA[<p>Не хочу я с тобой прощаться,<br />
+Расстояние нас не разделит.<br />
+Знаю, будешь ты мне улыбаться,<br />
+Уходя на далекий тот берег.</p>
+<p>Выбирая себе дорогу,<br />
+Ты меня иногда вспоминай.<br />
+Обойдут все невзгоды, тревоги,<br />
+Просто имя мое повторяй.</p>
+<p>Я с тобою душой и телом.<br />
+Но не знаю кому молиться.<br />
+Просто будь моим счастьем смелым,<br />
+Улетающим в небо птицей.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.lidian.ru/217.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

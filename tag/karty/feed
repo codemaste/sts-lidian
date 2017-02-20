@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>карты &#8212; Lidiana</title>
+	<atom:link href="http://www.lidian.ru/tag/karty/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.lidian.ru</link>
+	<description>Невозможно – это не факт. Невозможно – это не приговор. Невозможно – это не навсегда.</description>
+	<lastBuildDate>Sat, 01 Nov 2014 16:47:29 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Гадание</title>
+		<link>http://www.lidian.ru/gadanie.html</link>
+		<comments>http://www.lidian.ru/gadanie.html#respond</comments>
+		<pubDate>Fri, 04 Jan 2013 04:16:36 +0000</pubDate>
+		<dc:creator><![CDATA[lida]]></dc:creator>
+				<category><![CDATA[Мое скромное творчество]]></category>
+		<category><![CDATA[карты]]></category>
+		<category><![CDATA[лето]]></category>
+		<category><![CDATA[осень]]></category>
+
+		<guid isPermaLink="false">http://www.lidian.ru/?p=92</guid>
+		<description><![CDATA[Ты сидишь у окошка унылого, А в руке – лишь колода карт. Как ждала ты, как верила в милого, Только дни без оглядки летят. Лето кануло в лета бездонные, Осень золотом сыплет парчу. Ты глядишь через стекла оконные И по-прежнему веришь ему. «Карты врут, и он скоро вернется. Осветит счастье дом мой тогда. И устало [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ты сидишь у окошка унылого,<br />
+А в руке – лишь колода карт.<br />
+Как ждала ты, как верила в милого,<br />
+Только дни без оглядки летят.</p>
+<p>Лето кануло в лета бездонные,<br />
+Осень золотом сыплет парчу.<br />
+Ты глядишь через стекла оконные<br />
+И по-прежнему веришь ему.</p>
+<p>«Карты врут, и он скоро вернется.<br />
+Осветит счастье дом мой тогда.<br />
+И устало душа улыбнется.<br />
+Ведь не зря я тебя так ждала!» &#8212;</p>
+<p>Скажешь ты, а сама рассмеешься<br />
+Резким смехом печальных людей.<br />
+Эхо гулко тебе отзовется,<br />
+Но не нужно, себя не жалей!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.lidian.ru/gadanie.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

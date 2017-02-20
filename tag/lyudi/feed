@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>люди &#8212; Lidiana</title>
+	<atom:link href="http://www.lidian.ru/tag/lyudi/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.lidian.ru</link>
+	<description>Невозможно – это не факт. Невозможно – это не приговор. Невозможно – это не навсегда.</description>
+	<lastBuildDate>Sat, 01 Nov 2014 16:47:29 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Истина</title>
+		<link>http://www.lidian.ru/istina.html</link>
+		<comments>http://www.lidian.ru/istina.html#respond</comments>
+		<pubDate>Sat, 05 Jan 2013 04:15:56 +0000</pubDate>
+		<dc:creator><![CDATA[lida]]></dc:creator>
+				<category><![CDATA[Мое скромное творчество]]></category>
+		<category><![CDATA[байрон]]></category>
+		<category><![CDATA[истина]]></category>
+		<category><![CDATA[люди]]></category>
+
+		<guid isPermaLink="false">http://www.lidian.ru/?p=94</guid>
+		<description><![CDATA[Пусть я не Байрон – я другой, Пусть я не ведаю изгнанья, Но все же вечные страданья Теснят, пленяют разум мой. Я шел вдоль улиц ночью темных, Я видел неба красоту. На этих россыпях бездонных, Я знал, что истину найду. Я знал, что жизнь как в океане, Потонет через сотни лет. Я знал, что люди [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Пусть я не Байрон – я другой,<br />
+Пусть я не ведаю изгнанья,<br />
+Но все же вечные страданья<br />
+Теснят, пленяют разум мой.</p>
+<p>Я шел вдоль улиц ночью темных,<br />
+Я видел неба красоту.<br />
+На этих россыпях бездонных,<br />
+Я знал, что истину найду.</p>
+<p>Я знал, что жизнь как в океане,<br />
+Потонет через сотни лет.<br />
+Я знал, что люди растеряют<br />
+Всю мудрость, каждый свой завет.</p>
+<p>Другим смеяться будет звезды,<br />
+Другому верить и мечтать,<br />
+Но будет так же жить непросто,<br />
+Непросто жить и умирать…</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.lidian.ru/istina.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
